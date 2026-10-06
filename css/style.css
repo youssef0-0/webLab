@@ -20,7 +20,19 @@ p {
 }
 
 table {
+    margin: 10% auto;
     width: 50%;
     border-collapse: collapse;
     background-color: wheat;
+}
+
+th {
+    background-color: darkgreen;
+
+}
+
+th, td {
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;        
 }
