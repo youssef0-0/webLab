@@ -1,0 +1,26 @@
+.navigation {
+    font-size: larger;
+    background-color: darkcyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color:crimson;
+}
+
+ul {
+    font-size: large;
+}
+
+p {
+    font-size: larger;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    background-color: wheat;
+}
